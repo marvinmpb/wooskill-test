@@ -29,13 +29,13 @@ function CarouselComponent(props) {
         <img alt="a random dog" src={dogs} className='carousel-img' />
       </div>
       <div>
-        <img alt="a random dog" src={dogs} />
+        <img alt="a random dog" src={dogs} className='carousel-img' />
       </div>
       <div>
-        <img alt="a random dog" src={dogs} />
+        <img alt="a random dog" src={dogs} className='carousel-img' />
       </div>
       <div>
-        <img alt="a random dog" src={dogs} />
+        <img alt="a random dog" src={dogs} className='carousel-img' />
       </div>
     </Carousel>
 
